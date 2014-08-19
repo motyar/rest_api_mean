@@ -1,0 +1,11 @@
+{
+  "name"         : "mean_rest",
+  "version"      : "0.0.0",
+  "description"  : "REST APIs for MEAN Stack",
+  "main"         : "server.js",
+  "author"       : "@motyar",
+  "dependencies" : {
+    "express"    : "~3.4.4",
+    "mongoose"   : "~3.6.2"
+  }
+}
