@@ -5,7 +5,7 @@
   "main"         : "server.js",
   "author"       : "@motyar",
   "dependencies" : {
-    "express"    : "~3.4.4",
+    "express"    : ">=3.11.0",
     "mongoose"   : "~3.6.2"
   }
 }
